@@ -1,7 +1,12 @@
-
-
 # MOVID19
 
+### Teammates:
+1. Nopphiphat Suraminitkul
+2. Juhi Sinha
+3. Somanath Jogelkar
+4. Ayush Singh
+
+### Technologies used: 
 1. Frontend: HTML, CSS
 2. Backend: NodeJS
 3. Populate Data from API: Python
