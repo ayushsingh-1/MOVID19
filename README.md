@@ -28,8 +28,10 @@ https://drive.google.com/open?id=1NQ_29oJO0p-Clx0G_1fVIXongLWomSxN
 
 https://docs.google.com/presentation/d/1GCcLusrrdkOxazyMsi2d3lCWmA3dnBGRSRysHiyEJuE/edit#slide=id.g80d777d9c8_0_99
 
-### SQL Table creation and testing data is in the file of OOD1.sql. 
-### ERD diagram has also been uploaded in the files.
+SQL Table creation and testing data is in the file of OOD1.sql. 
+ERD diagram has also been uploaded in the files.
+
+## Moderator's functions:
 
 ## About
 This is a multipurpose system that was designed by Group 13 as a part of the final assessment for Object 
@@ -159,7 +161,7 @@ At the end of the page, we will see the winning movie that has won the voting pr
 Outcome: 
 Upon voting, a movie wins the voting and is displayed by the website. That movie will be eventually screened for the group patrons.
 
-Member Collapsible Info:
+## Member's functions:
 
 ## Vote Event: Vote Event()
 
