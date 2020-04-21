@@ -39,8 +39,7 @@ will also be able to populate the movies from the system.
 Members will have the ability to see all the movies that are available currently and vote for them as soon as a 
 movie watching event is created for their group. They will also be able to manage their profile and do basic functions 
 like watch movie trailers and read movie reviews for the movies that they are interested in.
-
-Moderator Collapsible Info: 
+ 
 
 ## Invite user: Invite() 
 
