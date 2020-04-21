@@ -2,13 +2,19 @@
 
 # MOVID19
 
+Frontend: HTML, CSS
+Backend: NodeJS
+Populate Data from API: Python
+Database: SQL
 
-LINK TO THE PROJECT VIDEO
+Link to the Project's Demo Video:
 
 https://drive.google.com/open?id=1NQ_29oJO0p-Clx0G_1fVIXongLWomSxN
 
 
-Slideset: https://docs.google.com/presentation/d/1GCcLusrrdkOxazyMsi2d3lCWmA3dnBGRSRysHiyEJuE/edit#slide=id.g80d777d9c8_0_99
+Slideset:
+
+https://docs.google.com/presentation/d/1GCcLusrrdkOxazyMsi2d3lCWmA3dnBGRSRysHiyEJuE/edit#slide=id.g80d777d9c8_0_99
 
 
 ## About
