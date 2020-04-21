@@ -11,7 +11,7 @@ https://drive.google.com/open?id=1NQ_29oJO0p-Clx0G_1fVIXongLWomSxN
 Slideset: https://docs.google.com/presentation/d/1GCcLusrrdkOxazyMsi2d3lCWmA3dnBGRSRysHiyEJuE/edit#slide=id.g80d777d9c8_0_99
 
 
-About
+## About
 This is a multipurpose system that was designed by Group 13 as a part of the final assessment for Object 
 Oriented Design course for Spring 2020. The system is called “MOVID-19”. The inspiration behind the name 
 comes from the consequence of the real life social distancing orders by governments all around the world. 
@@ -42,7 +42,7 @@ like watch movie trailers and read movie reviews for the movies that they are in
 
 Moderator Collapsible Info: 
 
-Invite user: Invite() 
+## Invite user: Invite() 
 
 Description: 
 
@@ -59,7 +59,7 @@ The user can then go on the Login page to input their information and login.
 Outcome: 
 The user is invited to the website and after putting their information, they should be able to login.
 
-Create Group: Create Group() 
+## Create Group: Create Group() 
 
 Description: 
 
@@ -74,10 +74,7 @@ Outcome:
 A group will be created with very minimal information and we will be able to add members into that group.
 
 
-
-
-
-Show Groups and Add User: Add User() 
+## Show Groups and Add User: Add User() 
 
 Description: 
 
@@ -94,7 +91,7 @@ Outcome:
 The selected website user will be inserted as a member of the selected group.
 
 
-Create Event: Create Event()
+## Create Event: Create Event()
 
 Description: 
 
@@ -113,7 +110,7 @@ You can select which event to look up the information from, which will show all 
 Outcome: 
 A new movie watching event will be created with specific dates, open and closed voting dates.
 
-Populate Movies: Populate Movies()
+## Populate Movies: Populate Movies()
 
 Description: 
 
@@ -128,7 +125,7 @@ The same movie list will also be populated into the vote function for the user o
 Outcome: 
 A new movie list, trailer url list and review url list will be populated into the database and will be displayed on the next webpage.
 
-Winner Display: Display Winner()
+## Winner Display: Display Winner()
 
 Description: 
 
@@ -145,7 +142,7 @@ Upon voting, a movie wins the voting and is displayed by the website. That movie
 
 Member Collapsible Info:
 
-Vote Event: Vote Event()
+## Vote Event: Vote Event()
 
 Description: 
 
@@ -161,11 +158,7 @@ To authenticate their vote for that particular voting event, users will have to 
 Outcome: 
 A vote will be cast for the movie that a user chooses and wants to be screened during show time. 
 
-
-
-
-
-Modify Event: Modify Event()
+## Modify Event: Modify Event()
 
 Description: 
 
@@ -181,7 +174,7 @@ To authenticate their re-vote for that particular voting event, users will have 
 Outcome: 
 A vote will be modified for the movie that a user chooses and wants to be screened during show time. 
 
-Unsubscribe from group: Unsubscribe()
+## Unsubscribe from group: Unsubscribe()
 
 Description: 
 
@@ -194,14 +187,3 @@ To authenticate their action for that particular group, users will have to enter
 
 Outcome: 
 The user that is currently logged in will be removed from the group that they chose to unsubscribe from.
-
-
-
-
-
-
-
-
-
-
-
