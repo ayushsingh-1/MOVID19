@@ -2,10 +2,10 @@
 
 # MOVID19
 
-Frontend: HTML, CSS
-Backend: NodeJS
-Populate Data from API: Python
-Database: SQL
+1. Frontend: HTML, CSS
+2. Backend: NodeJS
+3. Populate Data from API: Python
+4. Database: SQL
 
 Link to the Project's Demo Video:
 
