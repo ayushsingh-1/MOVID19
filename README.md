@@ -7,15 +7,23 @@
 3. Populate Data from API: Python
 4. Database: SQL
 
-Link to the Project's Demo Video:
+### Covered in our files: 
+1. Requirements Model
+2. Analysis Model
+3. Design Model
+4. User Interface Design (Mock-up Prototype)
+5. Operational Prototype
+
+### Link to the Project's Demo Video:
 
 https://drive.google.com/open?id=1NQ_29oJO0p-Clx0G_1fVIXongLWomSxN
 
 
-Slideset:
+### Slideset (Contains all the UML models, framework, diagrams) :
 
 https://docs.google.com/presentation/d/1GCcLusrrdkOxazyMsi2d3lCWmA3dnBGRSRysHiyEJuE/edit#slide=id.g80d777d9c8_0_99
 
+### SQL Table creation and testing data is in the file of OOD1.sql. ERD diagram has also been uploaded.
 
 ## About
 This is a multipurpose system that was designed by Group 13 as a part of the final assessment for Object 
